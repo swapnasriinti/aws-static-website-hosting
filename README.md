@@ -25,30 +25,17 @@ This project demonstrates how to host a static website using Amazon S3. The webs
 
 1. Created an Amazon S3 bucket.
 2. Disabled Block Public Access settings.
-3. Uploaded website files (`index.html` and `style.css`).
+3. Uploaded website files.
 4. Enabled Static Website Hosting.
 5. Configured Bucket Policy for public read access.
 6. Tested website accessibility through the S3 website endpoint.
 7. Managed project files using Git and GitHub.
 
-## Project Structure
-
-`
-aws-s3-static-website/
-│
-├── index.html
-├── style.css
-├── README.md
-└── screenshots/
-    ├── website-output.png
-    ├── bucket-settings.png
-    └── static-hosting.png
-```
 
 ## Screenshots
 
 ### Website Output
-Add screenshot here
+
 
 ### S3 Bucket Configuration
 Add screenshot here
