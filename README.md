@@ -34,14 +34,14 @@ This project demonstrates how to host a static website using Amazon S3. The webs
 
 ## Screenshots
 
+### S3 Bucket 
+Add screenshot here
+
+### permissions
+Add screenshot here
+
 ### Website Output
 
-
-### S3 Bucket Configuration
-Add screenshot here
-
-### Static Website Hosting
-Add screenshot here
 
 ## Learning Outcomes
 
