@@ -10,7 +10,7 @@ This project demonstrates how to host a static website using Amazon S3. The webs
 - Static website hosted on Amazon S3
 - Public access configured using Bucket Policies
 - Static Website Hosting enabled
-- Custom HTML and CSS design
+- Custom file
 - Accessible through a public S3 website endpoint
 
 ## Technologies Used
@@ -35,13 +35,13 @@ This project demonstrates how to host a static website using Amazon S3. The webs
 ## Screenshots
 
 ### S3 Bucket 
-Add screenshot here
+Screenshot 2026-06-02 202440.png
 
 ### permissions
-Add screenshot here
+Screenshot 2026-06-02 204601.png
 
 ### Website Output
-
+Screenshot 2026-06-02 202514.png
 
 ## Learning Outcomes
 
